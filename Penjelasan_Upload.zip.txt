@@ -1,0 +1,13 @@
+Permohonan Maaf atas Format Pengumpulan Tugas di GitHub
+
+Yth. Bapak Richi Dwi Agustia, S.Kom., M.Kom,
+
+Saya ingin mengucapkan permohonan maaf karena pada pengumpulan tugas kali ini, 
+saya telah mengunggah file dalam format zip langsung, bukan format yang seharusnya sesuai instruksi.
+Hal ini terjadi karena saya mengalami kendala teknis saat melakukan upload di GitHub
+Saya menyadari bahwa hal ini bisa saja menyulitkan proses review tugas, dan saya mohon maaf atas kekeliruan tersebut.
+
+Nama : Fadil Hardiyansyah
+NIM  : 10122006 
+
+Link Github dengan format yang benar : https://github.com/FadilHardiyansyah/tugas1-penerapan-teknologi-internet
